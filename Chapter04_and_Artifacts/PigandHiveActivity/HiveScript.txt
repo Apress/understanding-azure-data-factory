@@ -1,0 +1,5 @@
+CREATE EXTERNAL TABLE CRIME(ROWID int, State string, City string, Year int, Population int, ViolentCrime int, MurderAndNonEgligentManslaughter int, ForcibleRape int, Robbery int, AggravatedAssault int, PropertyCrime int, Burglary int, LarcenyTheft int, MotorVehicleTheft int, Arson int ) ROW FORMAT DELIMITED FIELDS TERMINATED BY ',' LOCATION 'wasb://rawdata@adfbookblobsampledata.blob.core.windows.net/';
+
+INSERT OVERWRITE DIRECTORY 'wasb://hiveoutput@adfbookblobsampledata.blob.core.windows.net/out'
+
+Select state, year, sum(ViolentCrime) , sum(Robbery), sum(PropertyCrime) from crime group by state,year;

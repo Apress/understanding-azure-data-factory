@@ -1,0 +1,4 @@
+CREATE TABLE [dbo].[factMarketBasketAnalysis](
+	[lhs] [varchar](5000) NULL,
+	[rhs] [varchar](5000) NULL
+)

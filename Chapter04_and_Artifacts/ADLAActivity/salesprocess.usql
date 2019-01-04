@@ -1,0 +1,43 @@
+DECLARE @inputfile  string = "/All_Sales_Records.csv";
+DECLARE @outputfile1 string = "/StorewiseSales.csv";
+DECLARE @outputfile2 string = "/popularProducts.csv";
+
+@schemadef =
+    EXTRACT SalesOrderID    int,
+            StoreId int,
+	        OrderDate   DateTime,
+            SubTotal          decimal,
+            Taxperc           int,
+            TaxAmt        decimal,
+            Freightperc            int,
+            Freight     decimal,
+	        TotalDue	decimal,
+	        SalesOrderDetailID  int,
+	        PName	string,
+	        OrderQty	int,
+	        UnitPrice	decimal,
+	        UnitPriceDiscount	decimal,
+	        LineTotal decimal
+    FROM @inputfile
+    USING Extractors.Csv(skipFirstNRows:1);
+
+@res1 =
+    SELECT
+        StoreId,
+        SUM(TotalDue) AS TotalDue
+    FROM @schemadef
+    GROUP BY StoreId;
+
+@res2 = 
+    SELECT
+        PName, COUNT(*) AS maximum_time 
+    FROM @schemadef
+    GROUP BY PName;
+
+OUTPUT @res1
+    TO @outputfile1
+    USING Outputters.Csv(outputHeader:true);
+
+OUTPUT @res2
+    TO @outputfile2 
+    USING Outputters.Csv(outputHeader:true);

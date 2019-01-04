@@ -1,0 +1,103 @@
+-- Create Test Database
+
+Create Database ADFControlFlow
+GO
+
+--Create Table to store employee information 
+
+CREATE TABLE Employee 
+    (EmpID INT NOT NULL , 
+        EmpName VARCHAR(50) NOT NULL, 
+        EmpDesignation VARCHAR(50) NULL, 
+        EmpDepartment VARCHAR(50) NULL, 
+        EmpJoining DATETIME NULL,
+	RecordModifiedDate DATETIME NULL
+	CONSTRAINT [PK_Employee] PRIMARY KEY CLUSTERED (EmpID)
+)
+
+GO
+
+--Insert records in employee table 
+
+INSERT INTO Employee (EmpID, EmpName, EmpDesignation, EmpDepartment, EmpJoining,RecordModifiedDate)
+VALUES
+(1, 'Abhishek', 'Program Manager', 'PG', GETDATE(),GETDATE() ),
+(2, 'Sudhir', 'Senior Software Engineer', 'CSE-CTE', GETDATE(),GETDATE()),
+(3, 'Gandhali', 'Software Engineer Manager', 'CSE-CTE', GETDATE(),GETDATE()),
+(4, 'Shweta', 'Software Engineer Manager', 'CSE-CTE', GETDATE(),GETDATE()),
+(5, 'Mani', 'Senior Software Engineer', 'CSE-EE', GETDATE(),GETDATE())
+
+GO
+
+--Create book table to store book information
+
+CREATE TABLE [dbo].[Books](
+    BookID int NOT NULL,
+    BookName varchar(50) NULL,
+    BookCategory varchar(50) NULL,
+    BookPrice numeric(18, 2) NULL,
+    RecordModifiedDate DATETIME NULL
+    PRIMARY KEY CLUSTERED ( BookID ASC )
+) ON [PRIMARY]
+
+GO	
+
+--Insert records in books table 
+
+INSERT INTO dbo.Books 
+    (BookID, BookName, BookCategory, BookPrice,RecordModifiedDate)
+VALUES	
+    (1,'Microsoft Azure', 'Computers', 125.6,GETDATE()),
+    (2,'Advanced AI', 'Statistics', 172.56,GETDATE()),
+    (3,'Asp.Net 4 Blue Book', 'Programming', 56.00,GETDATE()),
+    (4,'Visual Studio Code', 'Programming', 99.99,GETDATE())
+GO
+
+--Create a configuration table
+
+CREATE TABLE [dbo].[config](
+	[Table_Schema] [varchar](200) NULL,
+	[Table_Name] [varchar](200) NULL,
+	[WatermarkValue] [datetime] NULL
+) ON [PRIMARY]
+GO
+
+-- Insert records in config table
+INSERT INTO [dbo].[config]
+           ([Table_Schema]
+           ,[Table_Name])
+     VALUES
+           ('dbo','Books'),
+		   ('dbo','Employee')	
+GO
+
+
+
+
+--Create stored procedure to update configuration table  
+
+CREATE PROCEDURE spupdatewatermark @RecordModifiedtime datetime, @TableName varchar(50)
+AS
+BEGIN
+    UPDATE config
+    SET [WatermarkValue] = @RecordModifiedtime 
+WHERE [Table_Name] = @TableName
+END
+
+
+
+
+
+--Script to add delta data in SQL
+
+INSERT INTO dbo.Books 
+    (BookID,BookName, BookCategory, BookPrice,RecordModifiedDate)
+VALUES	
+    (5,'Operationalize ADF Pipeline', 'Computers', 525.6, GETDATE())
+GO
+
+INSERT INTO Employee 
+ 	(EmpID, EmpName, EmpDesignation, EmpDepartment, EmpJoining,RecordModifiedDate)
+VALUES
+ 	(6, 'Jason', 'Senior Content Writer', 'PG', GETDATE(), GETDATE())
+Go

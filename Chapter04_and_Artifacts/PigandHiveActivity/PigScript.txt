@@ -1,0 +1,4 @@
+crimedata = LOAD 'wasb://rawdata@adfbookblobsampledata.blob.core.windows.net/CrimeData.csv' USING PigStorage(',') AS (ROWID,State,City,Year,Population, ViolentCrime,MurderAndNonEgligentManslaughter, ForcibleRape,Robbery,AggravatedAssault,PropertyCrime, Burglary,LarcenyTheft,MotorVehicleTheft,Arson);
+CrimeinAlaska = FILTER crimedata BY State == 'Alaska';
+STORE CrimeinAlaska into 'wasb://pigoutput@adfbookblobsampledata.blob.core.windows.net/out' USING PigStorage (',')
+;

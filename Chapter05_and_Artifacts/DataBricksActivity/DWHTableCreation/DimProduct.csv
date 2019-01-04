@@ -1,0 +1,271 @@
+ProductKey,ProductAlternateKey,EnglishProductName,StandardCost,Size,StartDate,EndDate,Status
+1,Al001,All-Purpose Bike Stand,159,,1/1/2012 0:00,,Active
+2,Cl002,Classic Vest  S,63.5,,1/1/2012 0:00,,Active
+3,Cl003,Classic Vest  L,63.5,,1/1/2012 0:00,,Active
+4,Fu004,Full-Finger Gloves  S,24.69,,1/1/2012 0:00,,Active
+5,Fr005,Front Brakes,63.9,,1/1/2012 0:00,,Active
+6,Fr006,Front Derailleur,54.89,,1/1/2012 0:00,,Active
+7,HL007,HL Crankset,242.99,,1/1/2012 0:00,,Active
+8,HL008,HL Mountain Frame - Black  44,809.76,44,1/1/2012 0:00,,Active
+9,Fu009,Full-Finger Gloves  L,24.69,,1/1/2012 0:00,,Active
+10,Ha0010,Half-Finger Gloves  L,24.49,,1/1/2012 0:00,,Active
+11,Bi0011,Bike Wash - Dissolver,7.95,,1/1/2012 0:00,,Active
+12,Ca0012,Cable Lock,15,,1/1/2012 0:00,,Active
+13,Ha0013,Half-Finger Gloves  M,24.49,,1/1/2012 0:00,,Active
+14,HL0014,HL Mountain Frame - Black  38,809.76,38,1/1/2012 0:00,,Active
+15,HL0015,HL Road Frame - Red  48,858.9,48,1/1/2012 0:00,,Active
+16,HL0016,HL Road Handlebars,72.16,,1/1/2012 0:00,,Active
+17,AW0017,AWC Logo Cap,8.99,,1/1/2012 0:00,,Active
+18,Cl0018,Classic Vest  M,63.5,,1/1/2012 0:00,,Active
+19,HL0019,HL Mountain Frame - Silver  38,818.7,38,1/1/2012 0:00,,Active
+20,HL0020,HL Mountain Frame - Silver  42,818.7,42,1/1/2012 0:00,,Active
+21,HL0021,HL Road Pedal,48.59,,1/1/2012 0:00,,Active
+22,HL0022,HL Touring Frame - Blue  54,602.35,54,1/1/2012 0:00,,Active
+23,HL0023,HL Mountain Pedal,48.59,,1/1/2012 0:00,,Active
+24,HL0024,HL Mountain Rear Wheel,196.33,,1/1/2012 0:00,,Active
+25,Ch0025,Chain,12.14,,1/1/2012 0:00,,Active
+26,Fe0026,Fender Set - Mountain,21.98,,1/1/2012 0:00,,Active
+27,Ha0027,Half-Finger Gloves  S,24.49,,1/1/2012 0:00,,Active
+28,Hi0028,Hitch Rack - 4-Bike,120,,1/1/2012 0:00,,Active
+29,HL0029,HL Touring Frame - Yellow  50,602.35,50,1/1/2012 0:00,,Active
+30,HL0030,HL Touring Frame - Yellow  60,602.35,60,1/1/2012 0:00,,Active
+31,HL0031,HL Touring Handlebars,54.94,,1/1/2012 0:00,,Active
+32,LL0032,LL Mountain Frame - Black  48,149.87,48,1/1/2012 0:00,,Active
+33,HL0033,HL Road Frame - Black  48,858.9,48,1/1/2012 0:00,,Active
+34,HL0034,HL Road Seat/Saddle,31.58,,1/1/2012 0:00,,Active
+35,LL0035,LL Mountain Frame - Black  52,149.87,52,1/1/2012 0:00,,Active
+36,LL0036,LL Mountain Frame - Silver  48,158.43,48,1/1/2012 0:00,,Active
+37,HL0037,HL Road Tire,32.6,,1/1/2012 0:00,,Active
+38,Hy0038,Hydration Pack - 70 oz.,54.99,,1/1/2012 0:00,,Active
+39,LL0039,LL Mountain Rear Wheel,52.65,,1/1/2012 0:00,,Active
+40,LL0040,LL Mountain Seat/Saddle,16.27,,1/1/2012 0:00,,Active
+41,LL0041,LL Road Frame - Black  60,202.33,60,1/1/2012 0:00,,Active
+42,LL0042,LL Road Pedal,24.29,,1/1/2012 0:00,,Active
+43,LL0043,LL Road Rear Wheel,83.3,,1/1/2012 0:00,,Active
+44,LL0044,LL Touring Frame - Blue  54,200.05,54,1/1/2012 0:00,,Active
+45,LL0045,LL Touring Frame - Yellow  44,200.05,44,1/1/2012 0:00,,Active
+46,Me0046,Mens Sports Shorts  M,38.99,,1/1/2012 0:00,,Active
+47,ML0047,ML Mountain Frame - Black  44,209.26,44,1/1/2012 0:00,,Active
+48,ML0048,ML Mountain Frame-W - Silver  46,218.45,46,1/1/2012 0:00,,Active
+49,HL0049,HL Fork,137.69,,1/1/2012 0:00,,Active
+50,HL0050,HL Headset,74.84,,1/1/2012 0:00,,Active
+51,HL0051,HL Mountain Frame - Black  42,809.76,42,1/1/2012 0:00,,Active
+52,HL0052,HL Mountain Tire,35,,1/1/2012 0:00,,Active
+53,ML0053,ML Mountain Tire,29.99,,1/1/2012 0:00,,Active
+54,ML0054,ML Road Frame-W - Yellow  40,356.9,40,1/1/2012 0:00,,Active
+55,ML0055,ML Touring Seat/Saddle,23.48,,1/1/2012 0:00,,Active
+56,Mo0056,Mountain Tire Tube,4.99,,1/1/2012 0:00,,Active
+57,LL0057,LL Bottom Bracket,32.39,,1/1/2012 0:00,,Active
+58,LL0058,LL Crankset,105.29,,1/1/2012 0:00,,Active
+59,Mo0059,Mountain-100 Black  38,3374.99,38,1/1/2012 0:00,,Active
+60,Mo0060,Mountain-100 Black  42,3374.99,42,1/1/2012 0:00,,Active
+61,LL0061,LL Mountain Frame - Black  40,149.87,40,1/1/2012 0:00,,Active
+62,LL0062,LL Mountain Frame - Black  42,149.87,42,1/1/2012 0:00,,Active
+63,HL0063,HL Touring Frame - Blue  50,602.35,50,1/1/2012 0:00,,Active
+64,HL0064,HL Touring Frame - Blue  60,602.35,60,1/1/2012 0:00,,Active
+65,LL0065,LL Mountain Frame - Silver  40,158.43,40,1/1/2012 0:00,,Active
+66,LL0066,LL Mountain Frame - Silver  42,158.43,42,1/1/2012 0:00,,Active
+67,LL0067,LL Mountain Frame - Silver  52,158.43,52,1/1/2012 0:00,,Active
+68,LL0068,LL Mountain Front Wheel,36.45,,1/1/2012 0:00,,Active
+69,HL0069,HL Touring Frame - Yellow  46,602.35,46,1/1/2012 0:00,,Active
+70,HL0070,HL Touring Seat/Saddle,31.58,,1/1/2012 0:00,,Active
+71,LL0071,LL Fork,88.93,,1/1/2012 0:00,,Active
+72,LL0072,LL Headset,20.52,,1/1/2012 0:00,,Active
+73,LL0073,LL Mountain Handlebars,26.72,,1/1/2012 0:00,,Active
+74,LL0074,LL Mountain Tire,24.99,,1/1/2012 0:00,,Active
+75,LL0075,LL Mountain Frame - Black  44,149.87,44,1/1/2012 0:00,,Active
+76,LL0076,LL Mountain Frame - Silver  44,158.43,44,1/1/2012 0:00,,Active
+77,LL0077,LL Road Frame - Black  44,202.33,44,1/1/2012 0:00,,Active
+78,LL0078,LL Road Frame - Red  48,249.54,48,1/1/2012 0:00,,Active
+79,LL0079,LL Road Frame - Red  52,202.33,52,1/1/2012 0:00,,Active
+80,LL0080,LL Road Handlebars,26.72,,1/1/2012 0:00,,Active
+81,LL0081,LL Touring Frame - Blue  44,200.05,44,1/1/2012 0:00,,Active
+82,LL0082,LL Touring Frame - Yellow  62,200.05,62,1/1/2012 0:00,,Active
+83,LL0083,LL Mountain Pedal,24.29,,1/1/2012 0:00,,Active
+84,LL0084,LL Road Frame - Black  52,202.33,52,1/1/2012 0:00,,Active
+85,LL0085,LL Road Frame - Red  44,202.33,44,1/1/2012 0:00,,Active
+86,LL0086,LL Road Tire,21.49,,1/1/2012 0:00,,Active
+87,Lo0087,Long-Sleeve Logo Jersey  L,49.99,,1/1/2012 0:00,,Active
+88,ML0088,ML Mountain Frame-W - Silver  40,218.45,40,1/1/2012 0:00,,Active
+89,ML0089,ML Road Frame-W - Yellow  48,356.9,48,1/1/2012 0:00,,Active
+90,ML0090,ML Road Rear Wheel,165.23,,1/1/2012 0:00,,Active
+91,LL0091,LL Touring Frame - Blue  50,200.05,50,1/1/2012 0:00,,Active
+92,LL0092,LL Touring Frame - Yellow  50,200.05,50,1/1/2012 0:00,,Active
+93,Lo0093,Long-Sleeve Logo Jersey  S,49.99,,1/1/2012 0:00,,Active
+94,Lo0094,Long-Sleeve Logo Jersey  XL,49.99,,1/1/2012 0:00,,Active
+95,Mo0095,Mountain-100 Black  48,3374.99,48,1/1/2012 0:00,,Active
+96,Mo0096,Mountain-200 Black  42,2294.99,42,1/1/2012 0:00,,Active
+97,Mo0097,Mountain-200 Silver  38,2319.99,38,1/1/2012 0:00,,Active
+98,Mo0098,Mountain-200 Silver  42,2319.99,42,1/1/2012 0:00,,Active
+99,Mo0099,Mountain-100 Silver  38,3399.99,38,1/1/2012 0:00,,Active
+100,Mo00100,Mountain-100 Silver  44,3399.99,44,1/1/2012 0:00,,Active
+101,Mo00101,Mountain-300 Black  40,647.99,40,1/1/2012 0:00,,Active
+102,Mo00102,Mountain-400-W Silver  46,769.49,46,1/1/2012 0:00,,Active
+103,Me00103,Mens Bib-Shorts  L,53.99,,1/1/2012 0:00,,Active
+104,Me00104,Mens Bib-Shorts  S,58.49,,1/1/2012 0:00,,Active
+105,Me00105,Mens Sports Shorts  L,35.99,,1/1/2012 0:00,,Active
+106,Me00106,Mens Sports Shorts  S,35.99,,1/1/2012 0:00,,Active
+107,Mo00107,Mountain-500 Black  40,539.99,40,1/1/2012 0:00,,Active
+108,Mo00108,Mountain-500 Black  42,539.99,42,1/1/2012 0:00,,Active
+109,Mi00109,Minipump,11.99,,1/1/2012 0:00,,Active
+110,ML00110,ML Mountain Frame - Black  38,209.26,38,1/1/2012 0:00,,Active
+111,ML00111,ML Mountain Frame - Black  40,209.26,40,1/1/2012 0:00,,Active
+112,ML00112,ML Mountain Front Wheel,125.42,,1/1/2012 0:00,,Active
+113,Ro00113,Road Bottle Cage,8.99,,1/1/2012 0:00,,Active
+114,Ro00114,Road-150 Red  48,3578.27,48,1/1/2012 0:00,,Active
+115,Ro00115,Road-150 Red  62,3578.27,62,1/1/2012 0:00,,Active
+116,Ro00116,Road-250 Black  58,2443.35,58,1/1/2012 0:00,,Active
+117,Ro00117,Road-250 Red  52,2443.35,52,1/1/2012 0:00,,Active
+118,Ro00118,Road-350-W Yellow  48,1700.99,48,1/1/2012 0:00,,Active
+119,Mo00119,Mountain-300 Black  44,647.99,44,1/1/2012 0:00,,Active
+120,Mo00120,Mountain-400-W Silver  38,769.49,38,1/1/2012 0:00,,Active
+121,Ro00121,Road-450 Red  48,874.79,48,1/1/2012 0:00,,Active
+122,Ro00122,Road-450 Red  52,874.79,52,1/1/2012 0:00,,Active
+123,Ro00123,Road-450 Red  58,874.79,58,1/1/2012 0:00,,Active
+124,Ro00124,Road-550-W Yellow  48,1120.49,48,1/1/2012 0:00,,Active
+125,ML00125,ML Mountain Handlebars,37.15,,1/1/2012 0:00,,Active
+126,ML00126,ML Mountain Seat/Saddle,23.48,,1/1/2012 0:00,,Active
+127,Mo00127,Mountain-400-W Silver  40,769.49,40,1/1/2012 0:00,,Active
+128,Mo00128,Mountain-500 Black  48,539.99,48,1/1/2012 0:00,,Active
+129,Ro00129,Road-650 Black  44,782.99,44,1/1/2012 0:00,,Active
+130,Ro00130,Road-650 Black  60,782.99,60,1/1/2012 0:00,,Active
+131,Ro00131,Road-650 Black  62,782.99,62,1/1/2012 0:00,,Active
+132,Ro00132,Road-750 Black  48,539.99,48,1/1/2012 0:00,,Active
+133,To00133,Touring Pedal,48.59,,1/1/2012 0:00,,Active
+134,To00134,Touring Tire,28.99,,1/1/2012 0:00,,Active
+135,ML00135,ML Road Frame - Red  52,356.9,52,1/1/2012 0:00,,Active
+136,ML00136,ML Road Frame-W - Yellow  38,356.9,38,1/1/2012 0:00,,Active
+137,To00137,Touring-1000 Blue  46,2384.07,46,1/1/2012 0:00,,Active
+138,To00138,Touring-1000 Blue  60,2384.07,60,1/1/2012 0:00,,Active
+139,To00139,Touring-2000 Blue  54,1214.85,54,1/1/2012 0:00,,Active
+140,To00140,Touring-3000 Blue  58,742.35,58,1/1/2012 0:00,,Active
+141,To00141,Touring-3000 Yellow  44,742.35,44,1/1/2012 0:00,,Active
+142,To00142,Touring-3000 Yellow  54,742.35,54,1/1/2012 0:00,,Active
+143,Mo00143,Mountain-500 Black  52,539.99,52,1/1/2012 0:00,,Active
+144,Mo00144,Mountain-500 Silver  42,564.99,42,1/1/2012 0:00,,Active
+145,ML00145,ML Road Frame-W - Yellow  44,356.9,44,1/1/2012 0:00,,Active
+146,ML00146,ML Road Front Wheel,183.8,,1/1/2012 0:00,,Active
+147,Mo00147,Mountain-500 Silver  44,564.99,44,1/1/2012 0:00,,Active
+148,Pa00148,Patch Kit/8 Patches,2.29,,1/1/2012 0:00,,Active
+149,Re00149,Rear Derailleur,72.88,,1/1/2012 0:00,,Active
+150,Ro00150,Road Tire Tube,3.99,,1/1/2012 0:00,,Active
+151,Ro00151,Road-150 Red  52,3578.27,52,1/1/2012 0:00,,Active
+152,Ro00152,Road-250 Black  48,2443.35,48,1/1/2012 0:00,,Active
+153,ML00153,ML Road Pedal,37.25,,1/1/2012 0:00,,Active
+154,ML00154,ML Road Tire,24.99,,1/1/2012 0:00,,Active
+155,Ro00155,Road-250 Red  44,2443.35,44,1/1/2012 0:00,,Active
+156,Ro00156,Road-350-W Yellow  40,1700.99,40,1/1/2012 0:00,,Active
+157,Mo00157,Mountain Bike Socks  M,5.7,,1/1/2012 0:00,,Active
+158,Mo00158,Mountain-100 Silver  42,3399.99,42,1/1/2012 0:00,,Active
+159,Ro00159,Road-350-W Yellow  42,1700.99,42,1/1/2012 0:00,,Active
+160,Ro00160,Road-550-W Yellow  40,1120.49,40,1/1/2012 0:00,,Active
+161,Mo00161,Mountain-200 Black  38,2294.99,38,1/1/2012 0:00,,Active
+162,Mo00162,Mountain-200 Black  46,2294.99,46,1/1/2012 0:00,,Active
+163,Ro00163,Road-550-W Yellow  42,1120.49,42,1/1/2012 0:00,,Active
+164,Ro00164,Road-650 Red  48,782.99,48,1/1/2012 0:00,,Active
+165,Ro00165,Road-750 Black  52,539.99,52,1/1/2012 0:00,,Active
+166,Sp00166,Sport-100 Helmet  Blue,34.99,,1/1/2012 0:00,,Active
+167,Mo00167,Mountain-300 Black  48,647.99,48,1/1/2012 0:00,,Active
+168,Mo00168,Mountain-500 Black  44,539.99,44,1/1/2012 0:00,,Active
+169,To00169,Touring-1000 Blue  50,2384.07,50,1/1/2012 0:00,,Active
+170,To00170,Touring-1000 Yellow  46,2384.07,46,1/1/2012 0:00,,Active
+171,Mo00171,Mountain-500 Silver  48,564.99,48,1/1/2012 0:00,,Active
+172,Ra00172,Racing Socks  M,8.99,,1/1/2012 0:00,,Active
+173,To00173,Touring-1000 Yellow  54,2384.07,54,1/1/2012 0:00,,Active
+174,To00174,Touring-1000 Yellow  60,2384.07,60,1/1/2012 0:00,,Active
+175,Re00175,Rear Brakes,63.9,,1/1/2012 0:00,,Active
+176,Ro00176,Road-150 Red  44,3578.27,44,1/1/2012 0:00,,Active
+177,To00177,Touring-2000 Blue  46,1214.85,46,1/1/2012 0:00,,Active
+178,To00178,Touring-3000 Blue  50,742.35,50,1/1/2012 0:00,,Active
+179,Ro00179,Road-650 Black  52,782.99,52,1/1/2012 0:00,,Active
+180,Ro00180,Road-650 Red  44,782.99,44,1/1/2012 0:00,,Active
+181,To00181,Touring-3000 Blue  62,742.35,62,1/1/2012 0:00,,Active
+182,Wo00182,Womens Tights  M,44.99,,1/1/2012 0:00,,Active
+183,Ro00183,Road-650 Red  58,782.99,58,1/1/2012 0:00,,Active
+184,Ro00184,Road-750 Black  58,539.99,58,1/1/2012 0:00,,Active
+185,Sh00185,Short-Sleeve Classic Jersey  M,53.99,,1/1/2012 0:00,,Active
+186,Sp00186,Sport-100 Helmet  Red,34.99,,1/1/2012 0:00,,Active
+187,To00187,Touring Tire Tube,4.99,,1/1/2012 0:00,,Active
+188,To00188,Touring-2000 Blue  50,1214.85,50,1/1/2012 0:00,,Active
+189,To00189,Touring-2000 Blue  60,1214.85,60,1/1/2012 0:00,,Active
+190,To00190,Touring-3000 Yellow  50,742.35,50,1/1/2012 0:00,,Active
+191,To00191,Touring-3000 Yellow  62,742.35,62,1/1/2012 0:00,,Active
+192,Wo00192,Womens Mountain Shorts  L,69.99,,1/1/2012 0:00,,Active
+193,Wo00193,Womens Mountain Shorts  S,69.99,,1/1/2012 0:00,,Active
+194,Wo00194,Womens Tights  L,48.74,,1/1/2012 0:00,,Active
+195,Wo00195,Womens Tights  S,48.74,,1/1/2012 0:00,,Active
+196,Fu00196,Full-Finger Gloves  M,24.69,,1/1/2012 0:00,,Active
+197,HL00197,HL Bottom Bracket,72.89,,1/1/2012 0:00,,Active
+198,HL00198,HL Mountain Frame - Black  48,809.76,48,1/1/2012 0:00,,Active
+199,HL00199,HL Mountain Frame - Silver  46,818.7,46,1/1/2012 0:00,,Active
+200,HL00200,HL Mountain Frame - Silver  48,818.7,48,1/1/2012 0:00,,Active
+201,HL00201,HL Mountain Front Wheel,180.13,,1/1/2012 0:00,,Active
+202,HL00202,HL Mountain Handlebars,72.16,,1/1/2012 0:00,,Active
+203,HL00203,HL Mountain Seat/Saddle,31.58,,1/1/2012 0:00,,Active
+204,HL00204,HL Road Frame - Black  44,858.9,44,1/1/2012 0:00,,Active
+205,HL00205,HL Road Frame - Red  44,858.9,44,1/1/2012 0:00,,Active
+206,HL00206,HL Road Frame - Red  62,858.9,62,1/1/2012 0:00,,Active
+207,HL00207,HL Road Front Wheel,198.04,,1/1/2012 0:00,,Active
+208,HL00208,HL Road Rear Wheel,264.22,,1/1/2012 0:00,,Active
+209,HL00209,HL Touring Frame - Blue  46,602.35,46,1/1/2012 0:00,,Active
+210,HL00210,HL Touring Frame - Yellow  54,602.35,54,1/1/2012 0:00,,Active
+211,LL00211,LL Road Frame - Black  58,202.33,58,1/1/2012 0:00,,Active
+212,LL00212,LL Road Frame - Red  60,249.54,60,1/1/2012 0:00,,Active
+213,LL00213,LL Road Frame - Red  62,249.54,62,1/1/2012 0:00,,Active
+214,LL00214,LL Road Seat/Saddle,16.27,,1/1/2012 0:00,,Active
+215,LL00215,LL Touring Frame - Blue  58,200.05,58,1/1/2012 0:00,,Active
+216,LL00216,LL Touring Frame - Blue  62,200.05,62,1/1/2012 0:00,,Active
+217,LL00217,LL Touring Frame - Yellow  58,200.05,58,1/1/2012 0:00,,Active
+218,LL00218,LL Touring Handlebars,27.65,,1/1/2012 0:00,,Active
+219,LL00219,LL Touring Seat/Saddle,16.27,,1/1/2012 0:00,,Active
+220,Lo00220,Long-Sleeve Logo Jersey  M,49.99,,1/1/2012 0:00,,Active
+221,Me00221,Mens Bib-Shorts  M,58.49,,1/1/2012 0:00,,Active
+222,ML00222,ML Crankset,153.89,,1/1/2012 0:00,,Active
+223,ML00223,ML Headset,61.37,,1/1/2012 0:00,,Active
+224,ML00224,ML Mountain Frame - Black  48,258.08,48,1/1/2012 0:00,,Active
+225,ML00225,ML Mountain Frame-W - Silver  38,218.45,38,1/1/2012 0:00,,Active
+226,ML00226,ML Mountain Frame-W - Silver  42,218.45,42,1/1/2012 0:00,,Active
+227,ML00227,ML Mountain Pedal,37.25,,1/1/2012 0:00,,Active
+228,ML00228,ML Mountain Rear Wheel,174.66,,1/1/2012 0:00,,Active
+229,ML00229,ML Road Frame - Red  48,356.9,48,1/1/2012 0:00,,Active
+230,Mo00230,Mountain Bike Socks  L,5.7,,1/1/2012 0:00,,Active
+231,Mo00231,Mountain Bottle Cage,9.99,,1/1/2012 0:00,,Active
+232,Mo00232,Mountain-100 Black  44,3374.99,44,1/1/2012 0:00,,Active
+233,Mo00233,Mountain-100 Silver  48,3399.99,48,1/1/2012 0:00,,Active
+234,Mo00234,Mountain-200 Silver  46,2319.99,46,1/1/2012 0:00,,Active
+235,Mo00235,Mountain-300 Black  38,647.99,38,1/1/2012 0:00,,Active
+236,Mo00236,Mountain-400-W Silver  42,769.49,42,1/1/2012 0:00,,Active
+237,Mo00237,Mountain-500 Silver  40,564.99,40,1/1/2012 0:00,,Active
+238,Mo00238,Mountain-500 Silver  52,564.99,52,1/1/2012 0:00,,Active
+239,Ra00239,Racing Socks  L,8.99,,1/1/2012 0:00,,Active
+240,Ro00240,Road-150 Red  56,3578.27,56,1/1/2012 0:00,,Active
+241,Ro00241,Road-250 Black  44,2443.35,44,1/1/2012 0:00,,Active
+242,Ro00242,Road-250 Black  52,2443.35,52,1/1/2012 0:00,,Active
+243,Ro00243,Road-250 Red  48,2443.35,48,1/1/2012 0:00,,Active
+244,Ro00244,Road-250 Red  58,2443.35,58,1/1/2012 0:00,,Active
+245,Ro00245,Road-350-W Yellow  44,1700.99,44,1/1/2012 0:00,,Active
+246,Ro00246,Road-450 Red  44,874.79,44,1/1/2012 0:00,,Active
+247,Ro00247,Road-450 Red  60,874.79,60,1/1/2012 0:00,,Active
+248,Ro00248,Road-550-W Yellow  38,1120.49,38,1/1/2012 0:00,,Active
+249,Ro00249,Road-550-W Yellow  44,1120.49,44,1/1/2012 0:00,,Active
+250,Ro00250,Road-650 Black  48,782.99,48,1/1/2012 0:00,,Active
+251,Ro00251,Road-650 Black  58,782.99,58,1/1/2012 0:00,,Active
+252,Ro00252,Road-650 Red  52,782.99,52,1/1/2012 0:00,,Active
+253,Ro00253,Road-650 Red  60,782.99,60,1/1/2012 0:00,,Active
+254,Ro00254,Road-650 Red  62,782.99,62,1/1/2012 0:00,,Active
+255,Ro00255,Road-750 Black  44,539.99,44,1/1/2012 0:00,,Active
+256,Sh00256,Short-Sleeve Classic Jersey  L,53.99,,1/1/2012 0:00,,Active
+257,Sh00257,Short-Sleeve Classic Jersey  S,53.99,,1/1/2012 0:00,,Active
+258,Sh00258,Short-Sleeve Classic Jersey  XL,53.99,,1/1/2012 0:00,,Active
+259,Sp00259,Sport-100 Helmet  Black,34.99,,1/1/2012 0:00,,Active
+260,To00260,Touring-1000 Blue  54,2384.07,54,1/1/2012 0:00,,Active
+261,To00261,Touring-1000 Yellow  50,2384.07,50,1/1/2012 0:00,,Active
+262,To00262,Touring-3000 Blue  44,742.35,44,1/1/2012 0:00,,Active
+263,To00263,Touring-3000 Blue  54,742.35,54,1/1/2012 0:00,,Active
+264,To00264,Touring-3000 Yellow  58,742.35,58,1/1/2012 0:00,,Active
+265,Wa00265,Water Bottle - 30 oz.,4.99,,1/1/2012 0:00,,Active
+267,Wo00266,Womens Mountain Shorts  M,69.99,,1/1/2012 0:00,,Active
+268,,,0,,1/1/2012 0:00,,Active
+269,,,0,,1/1/2012 0:00,,Active
+270,,,0,,1/1/2012 0:00,,Active
+271,,,0,,1/1/2012 0:00,,Active

@@ -1,0 +1,11 @@
+StoreId,Store_Name,Store_Region,Store_City,StartDate,EndDate,Status
+1,Next-Door Bike Store,East,Kolkatta,2012-01-01 00:00:00,,Active
+2,Professional Sales and Service,West,Mumbai,2012-01-01 00:00:00,,Active
+3,Riders Company,South,Bangalore,2012-01-01 00:00:00,,Active
+4,Nationwide Supply,North,Delhi,2012-01-01 00:00:00,,Active
+5,Area Bike Accessories,South,Hyderabad,2012-01-01 00:00:00,,Active
+6,Clamps & Brackets Co.,North,Punjab,2012-01-01 00:00:00,,Active
+7,Valley Bicycle Specialists,West,Pune,2012-01-01 00:00:00,,Active
+8,New Bikes Company,East,Patna,2012-01-01 00:00:00,,Active
+9,Vinyl and Plastic Goods Corporation,South,Chennai,2012-01-01 00:00:00,,Active
+10,Fun Toys and Bikes,West,Bikaner,2012-01-01 00:00:00,,Active
